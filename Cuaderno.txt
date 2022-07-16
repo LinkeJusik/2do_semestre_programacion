@@ -1,0 +1,17 @@
+Objeto: Cuaderno
+
+Propiedades:
+Marca: scribe
+Tamaño: profesional
+Forma: rectangular
+Orientación: Vertical
+Tipo de impresión: Cuadrada
+
+Acciones: 
+Dibujar()
+Escribir()
+Anotar()
+Operar()
+Crear figuras de papel()
+
+Tarea: investigar que es una clase y los diagramas UML
